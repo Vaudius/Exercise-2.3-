@@ -1,2 +1,2 @@
-# Exercise-2.3-Charles Russell Severance
+# Exercise-Python for Everyone (Getting Started with Python) Coursera-Charles Russell Severance
   
